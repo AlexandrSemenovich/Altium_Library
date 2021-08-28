@@ -20,6 +20,7 @@ Project Outputs for*
 #History
 History
 STEP/*.STEP
+STEP/*.stp
 
 #Exports, but not manual ones
 exports/*
