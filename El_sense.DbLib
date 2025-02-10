@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=Translation - Voltage Levels$
+LastFocusedTable=UART-COM-port$
 [Table1]
 SchemaName=
 TableName=AC DC Power Modules$
@@ -32,222 +32,333 @@ TableName=Accelerometers$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=78|Footprint Ref0=128|Library Path0=165|Footprint Path0=116|Description0=606|Item0=78|Part Number0=87|Supplier 10=75|Package / Case0=99|Qualification0=120|Termination0=85|Number of Terminations0=148|RoHS Compliant0=107|Sensor Type0=85|Acceleration0=96|Sensitivity0=294|Output Type0=88|Interface Type0=95|Resolution0=79|Supply Voltage - Max0=132|Supply Voltage - Min0=131|Operating Supply Current0=156|Product0=183|Series0=60|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=104|HelpURL0=631|Category0=183
 [Table3]
 SchemaName=
 TableName=Amplifier ICs$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=77|Footprint Ref0=92|Library Path0=139|Footprint Path0=98|Description0=353|Item0=65|Part Number0=87|Supplier 10=75|Package / Case0=99|Qualification0=120|Termination0=85|Number of Terminations0=148|RoHS Compliant0=107|Amplifier Type0=174|Number of Channels0=129|Input Voltage - Min0=124|Input Voltage - Max0=125|GBP - Gain Bandwidth Product0=179|Ib - Input Bias Current0=136|Vos - Input Offset Voltage0=158|Product0=143|Series0=53|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=100|HelpURL0=464|Category0=143
 [Table4]
 SchemaName=
 TableName=Analog to Digital Converters$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=94|Library Ref0=144|Footprint Ref0=92|Library Path0=115|Footprint Path0=98|Description0=714|Item0=94|Supplier Part Number 10=142|Supplier 10=75|Package / Case0=99|Qualification0=120|RoHS Compliant0=107|Analogue Supply Voltage0=154|Digital Supply Voltage0=138|Reference Voltage0=117|Reference Type0=101|Pd - Power Dissipation0=139|Power Consumption0=128|Gain Error0=75|INL - Integral Nonlinearity0=155|Input Voltage0=94|Input Type0=181|Resolution0=79|Number of Channels0=129|Number of Converters0=136|Shutdown0=80|Interface Type0=95|Features0=207|Sampling Rate0=97|Architecture0=85|Product0=191|Series0=61|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=104|HelpURL0=736|Category0=186
 [Table5]
 SchemaName=
 TableName=Audio$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=77|Footprint Ref0=92|Library Path0=124|Footprint Path0=98|Description0=353|Item0=81|Part Number0=87|Supplier 10=75|Package / Case0=99|Length0=59|Width0=55|Height0=58|Qualification0=120|Termination0=85|Number of Terminations0=148|RoHS Compliant0=107|Type0=71|Sound Pressure Level0=131|Tone0=69|Frequency0=76|Current Rating0=99|IP Rating0=69|Max Operating Temperature0=168|Min Operating Temperature0=167|Series0=58|Manufacturer0=93|HelpURL0=519|Category0=232
 [Table6]
 SchemaName=
 TableName=Battery Chargers$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=127|Footprint Ref0=92|Library Path0=179|Footprint Path0=130|Description0=631|Item0=113|Part Number0=113|Supplier 10=75|Package / Case0=99|Qualification0=120|Termination0=85|Number of Terminations0=148|RoHS Compliant0=107|Battery Type0=263|Output Voltage - Min0=134|Output Voltage - Max0=135|Output Current0=103|Operating Supply Voltage - Min0=187|Operating Supply Voltage - Max0=188|Moisture Sensitive0=117|Product0=116|Series0=71|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=165|HelpURL0=907|Category0=100
 [Table7]
 SchemaName=
 TableName=Battery Holders$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=79|Footprint Ref0=92|Library Path0=173|Footprint Path0=124|Description0=272|Item0=155|Part Number0=87|Supplier 10=75|Package / Case0=99|Length0=59|Width0=56|Height0=58|Material0=75|Termination0=85|Number of Terminations0=148|Battery Type0=102|Style0=81|Battery Cell Size0=103|Number of Cells0=105|Mounting Type0=109|Product0=168|Series0=54|Manufacturer0=179|HelpURL0=445|Category0=278
 [Table8]
 SchemaName=
 TableName=Battery Management$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=77|Footprint Ref0=92|Library Path0=201|Footprint Path0=152|Description0=718|Item0=129|Part Number0=129|Supplier 10=75|Package / Case0=99|Qualification0=120|Termination0=85|Number of Terminations0=148|RoHS Compliant0=107|Battery Type0=95|Output Voltage - Min0=134|Output Voltage - Max0=135|Operating Supply Voltage - Min0=187|Operating Supply Voltage - Max0=188|Operating Supply Current0=156|Capacity0=119|Product0=116|Series0=70|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=100|HelpURL0=603|Category0=214
 [Table9]
 SchemaName=
 TableName=Battery$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=77|Footprint Ref0=92|Library Path0=128|Footprint Path0=98|Description0=117|Item0=76|Part Number0=87|Supplier 10=75|Package / Case0=99|Length0=59|Width0=56|Height0=58|Termination0=85|Number of Terminations0=148|Battery Chemistry0=111|Output Voltage0=104|Capacity0=66|Rechargeable/Non-Rechargeable0=193|Battery Cell Size0=103|Product0=92|Series0=53|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=93|HelpURL0=552|Category0=69
 [Table10]
 SchemaName=
 TableName=Buffers and Line Drivers$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=85|Footprint Ref0=100|Library Path0=194|Footprint Path0=145|Description0=267|Item0=113|Part Number0=113|Supplier 10=75|Package / Case0=99|Qualification0=120|Termination0=85|Number of Terminations0=148|RoHS Compliant0=107|Number of Input Lines0=138|Number of Output Lines0=148|Input Signal Type0=113|Propagation Delay Time0=145|Polarity0=80|Output Type0=88|High Level Output Current0=159|Low Level Output Current0=155|Quiescent Current0=116|Supply Voltage - Max0=132|Supply Voltage - Min0=131|Operating Supply Current0=156|Product0=118|Series0=85|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=113|HelpURL0=931|Category0=118
 [Table11]
 SchemaName=
 TableName=Bus Transceivers$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=77|Footprint Ref0=113|Library Path0=173|Footprint Path0=124|Description0=395|Item0=63|Part Number0=99|Supplier 10=75|Package / Case0=99|Qualification0=120|RoHS Compliant0=107|Supply Voltage - Min0=131|Supply Voltage - Max0=132|Pd - Power Dissipation0=139|Propagation Delay Time0=145|Data Rate0=73|Translator Type0=102|Channel Type0=93|Product0=91|Series0=53|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=93|HelpURL0=388|Category0=175
 [Table12]
 SchemaName=
 TableName=CAN Interface IC$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=83|Footprint Ref0=92|Library Path0=180|Footprint Path0=131|Description0=418|Item0=95|Part Number0=95|Supplier 10=75|Package / Case0=99|Qualification0=120|RoHS Compliant0=107|Number of Drivers0=116|Number of Receivers0=128|Data Rate0=73|Supply Voltage - Min0=131|Supply Voltage - Max0=132|Operating Supply Current0=156|ESD Protection0=99|Interface Type0=95|Pd - Power Dissipation0=139|Product0=95|Series0=83|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=107|HelpURL0=966|Category0=91
 [Table13]
 SchemaName=
 TableName=Capacitor$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=145|Library Ref0=100|Footprint Ref0=92|Library Path0=142|Footprint Path0=98|Description0=397|Item0=117|Part Number0=136|Supplier 10=75|Package / Case0=138|Voltage Rating 0=103|Qualification0=120|Termination Style0=112|Termination0=85|Number of Terminations0=148|RoHS Compliant0=107|ESR0=68|Dielectric0=70|Ripple Current0=98|Product0=251|Series0=158|Max Operating Temperature0=168|Min Operating Temperature0=167|Tolerance0=73|Temperature Coefficient0=147|Value0=52|Manufacturer0=182|HelpURL0=1418|Category0=251
 [Table14]
 SchemaName=
 TableName=Comparators$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=184|Footprint Ref0=92|Library Path0=154|Footprint Path0=105|Description0=475|Item0=85|Part Number0=115|Supplier 10=75|Package / Case0=99|Qualification0=120|Termination0=85|Number of Terminations0=148|RoHS Compliant0=107|Number of Channels0=129|Type0=93|Output Type0=148|Voltage - Supply, Single/Dual (±)0=191|Voltage - Input Offset (Max)0=166|Current - Input Bias (Max)0=153|Current - Output (Typ)0=137|Current - Quiescent (Max)0=153|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=107|HelpURL0=910|Category0=115
 [Table15]
 SchemaName=
 TableName=Connector$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=213|Library Ref0=176|Footprint Ref0=244|Library Path0=147|Footprint Path0=98|Description0=1206|Item0=213|Part Number0=213|Supplier 10=75|Package / Case0=220|Type0=176|Number of Positions0=128|Pitch0=50|Number of Rows0=109|Row Spacing0=90|Mounting Style0=148|Termination Style0=112|Mounting Angle0=141|Contact Gender0=147|Contact Plating0=102|Mating Post Length0=124|Termination Post Length0=149|Application0=217|Current Rating0=99|Flammability Rating0=124|Housing Material0=176|Insulation Resistance0=132|Product0=171|Series0=121|Manufacturer0=192|HelpURL0=1532|Category0=413
 [Table16]
 SchemaName=
 TableName=Counter Shift Registers$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=91|Library Ref0=77|Footprint Ref0=92|Library Path0=211|Footprint Path0=162|Description0=234|Item0=67|Supplier0=66|Number of Bits per Element0=163|Number of Elements0=127|Voltage - Supply0=108|Output Type0=88|Case0=57|Manufacturer0=100|HelpURL0=914|Category0=119|F170=41|F180=41|F190=41|F200=41|F210=41|F220=41|F230=41|F240=41|F250=41|F260=41|F270=41|F280=41|F290=41|F300=41|F310=41|F320=41|F330=41|F340=41|F350=41|F360=41|F370=41|F380=41|F390=41
 [Table17]
 SchemaName=
 TableName=Crystals$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=146|Footprint Ref0=135|Library Path0=132|Footprint Path0=98|Description0=437|Item0=154|Part Number0=206|Supplier 10=75|Package / Case0=99|Qualification0=120|Termination0=85|Number of Terminations0=148|RoHS Compliant0=107|Load Capacitance0=113|Frequency0=76|Tolerance0=73|Frequency Stability0=120|ESR0=59|Drive Level0=77|Product0=203|Series0=65|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=97|HelpURL0=350|Category0=203
 [Table18]
 SchemaName=
 TableName=Current Management$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=100|Library Ref0=100|Footprint Ref0=92|Library Path0=205|Footprint Path0=156|Description0=503|Item0=100|Supplier0=66|Voltage - Input0=101|Case0=53|Manufacturer0=122|HelpURL0=731|Category0=313|F140=41|F150=41|F160=41|F170=41|F180=41|F190=41|F200=41|F210=41|F220=41|F230=41|F240=41|F250=41|F260=41|F270=41|F280=41|F290=41|F300=41|F310=41|F320=41|F330=41|F340=41
 [Table19]
 SchemaName=
 TableName=Current and Power Monitors$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=77|Footprint Ref0=92|Library Path0=249|Footprint Path0=200|Description0=358|Item0=84|Part Number0=87|Supplier 10=75|Package / Case0=99|Qualification0=120|Termination0=85|Number of Terminations0=148|RoHS Compliant0=107|Sensing Method0=108|Supply Voltage - Min0=131|Supply Voltage - Max0=132|Accuracy0=67|Bandwidth0=79|Features0=183|Product0=215|Series0=53|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=100|HelpURL0=900|Category0=215
 [Table20]
 SchemaName=
 TableName=Diodes$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=185|Footprint Ref0=154|Library Path0=124|Footprint Path0=98|Description0=410|Item0=103|Part Number0=103|Supplier 10=75|Package / Case0=99|Qualification0=120|Termination0=85|Number of Terminations0=148|RoHS Compliant0=107|Configuration0=165|Technology0=83|Zener Voltage0=95|Voltage Tolerance0=116|Power Dissipation0=116|Zener Current0=94|Zener Impedance0=111|Forward Current0=108|Repetitive Reverse Voltage0=159|Forward Voltage0=109|Forward Surge Current0=141|Reverse Current0=104|Product0=153|Series0=118|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=122|HelpURL0=518|Category0=153|F340=41|F350=41|F360=41|F370=41|F380=41|F390=41|F400=41|F410=41|F420=41|F430=41|F440=41|F450=41|F460=41|F470=41|F480=41|F490=41|F500=41|F510=41|F520=41|F530=41|F540=41|F550=41|F560=41|F570=41|F580=41|F590=41|F600=41|F610=41|F620=41|F630=41|F640=41|F650=41|F660=41|F670=41|F680=41|F690=41|F700=41|F710=41|F720=41|F730=41|F740=41|F750=41|F760=41|F770=41|F780=41|F790=41|F800=41|F810=41|F820=41|F830=41|F840=41|F850=41|F860=41|F870=41|F880=41|F890=41|F900=41|F910=41|F920=41|F930=41|F940=41|F950=41|F960=41|F970=41|F980=41|F990=41|F1000=47|F1010=47|F1020=47|F1030=47|F1040=47|F1050=47|F1060=47|F1070=47|F1080=47|F1090=47|F1100=47|F1110=47|F1120=47|F1130=47|F1140=47|F1150=47|F1160=47|F1170=47|F1180=47|F1190=47|F1200=47|F1210=47|F1220=47|F1230=47|F1240=47|F1250=47|F1260=47|F1270=47|F1280=47|F1290=47|F1300=47|F1310=47|F1320=47|F1330=47|F1340=47|F1350=47|F1360=47|F1370=47|F1380=47|F1390=47|F1400=47|F1410=47|F1420=47|F1430=47|F1440=47|F1450=47|F1460=47|F1470=47|F1480=47|F1490=47|F1500=47|F1510=47|F1520=47|F1530=47|F1540=47|F1550=47|F1560=47|F1570=47|F1580=47|F1590=47|F1600=47|F1610=47|F1620=47|F1630=47|F1640=47|F1650=47|F1660=47|F1670=47|F1680=47|F1690=47|F1700=47|F1710=47|F1720=47|F1730=47|F1740=47|F1750=47|F1760=47|F1770=47|F1780=47|F1790=47|F1800=47|F1810=47|F1820=47|F1830=47|F1840=47|F1850=47|F1860=47|F1870=47|F1880=47|F1890=47|F1900=47|F1910=47|F1920=47|F1930=47|F1940=47|F1950=47|F1960=47|F1970=47|F1980=47|F1990=47|F2000=47|F2010=47|F2020=47|F2030=47|F2040=47|F2050=47|F2060=47|F2070=47|F2080=47|F2090=47|F2100=47|F2110=47|F2120=47|F2130=47|F2140=47|F2150=47|F2160=47|F2170=47|F2180=47|F2190=47|F2200=47|F2210=47|F2220=47|F2230=47|F2240=47|F2250=47|F2260=47|F2270=47|F2280=47|F2290=47|F2300=47|F2310=47|F2320=47|F2330=47|F2340=47|F2350=47|F2360=47|F2370=47|F2380=47|F2390=47|F2400=47|F2410=47|F2420=47|F2430=47|F2440=47|F2450=47|F2460=47|F2470=47|F2480=47|F2490=47|F2500=47|F2510=47|F2520=47|F2530=47|F2540=47|F2550=47
 [Table21]
 SchemaName=
 TableName=ESD Suppressors$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=203|Footprint Ref0=111|Library Path0=181|Footprint Path0=132|Description0=1269|Item0=106|Part Number0=106|Supplier 10=75|Package / Case0=100|Qualification0=120|Termination0=85|Number of Terminations0=148|RoHS Compliant0=107|Number of Channels0=129|Polarity0=81|Voltage Rating DC0=118|Voltage Rating AC0=117|Breakdown Voltage0=124|Clamping Voltage0=115|Pppm - Peak Pulse Power Dissipation0=212|Peak Pulse Current0=119|Vesd - Voltage ESD Contact0=164|Vesd - Voltage ESD Air Gap0=162|Cd - Diode Capacitance0=143|Current Rating0=99|Working Voltage0=111|Forward Voltage0=109|Series0=59|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=149|HelpURL0=1452|Category0=191
 [Table22]
 SchemaName=
 TableName=Embedded Solutions$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=105|Footprint Ref0=105|Library Path0=202|Footprint Path0=153|Description0=646|Item0=149|Part Number0=105|Supplier 10=75|Package / Case0=99|Qualification0=120|RoHS Compliant0=107|Supply Voltage - Min0=131|Supply Voltage - Max0=132|Product0=118|Series0=149|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=158|HelpURL0=460|Category0=181|F220=41|F230=41|F240=41|F250=41|F260=41|F270=41|F280=41|F290=41|F300=41|F310=41|F320=41|F330=41|F340=41|F350=41|F360=41|F370=41|F380=41|F390=41|F400=41|F410=41|F420=41|F430=41|F440=41|F450=41|F460=41|F470=41|F480=41|F490=41|F500=41|F510=41|F520=41|F530=41|F540=41|F550=41|F560=41|F570=41|F580=41|F590=41|F600=41|F610=41|F620=41|F630=41|F640=41|F650=41|F660=41|F670=41|F680=41|F690=41|F700=41|F710=41|F720=41|F730=41|F740=41|F750=41|F760=41|F770=41|F780=41|F790=41|F800=41|F810=41|F820=41|F830=41|F840=41|F850=41|F860=41|F870=41|F880=41|F890=41|F900=41|F910=41|F920=41|F930=41|F940=41|F950=41|F960=41|F970=41|F980=41|F990=41|F1000=47|F1010=47|F1020=47|F1030=47|F1040=47|F1050=47|F1060=47|F1070=47|F1080=47|F1090=47|F1100=47|F1110=47|F1120=47|F1130=47|F1140=47|F1150=47|F1160=47|F1170=47|F1180=47|F1190=47|F1200=47|F1210=47|F1220=47|F1230=47|F1240=47|F1250=47|F1260=47|F1270=47|F1280=47|F1290=47|F1300=47|F1310=47|F1320=47|F1330=47|F1340=47|F1350=47|F1360=47|F1370=47|F1380=47|F1390=47|F1400=47|F1410=47|F1420=47|F1430=47|F1440=47|F1450=47|F1460=47|F1470=47|F1480=47|F1490=47|F1500=47|F1510=47|F1520=47|F1530=47|F1540=47|F1550=47|F1560=47|F1570=47|F1580=47|F1590=47|F1600=47|F1610=47|F1620=47|F1630=47|F1640=47|F1650=47|F1660=47|F1670=47|F1680=47|F1690=47|F1700=47|F1710=47|F1720=47|F1730=47|F1740=47|F1750=47|F1760=47|F1770=47|F1780=47|F1790=47|F1800=47|F1810=47|F1820=47|F1830=47|F1840=47|F1850=47|F1860=47|F1870=47|F1880=47|F1890=47|F1900=47|F1910=47|F1920=47|F1930=47|F1940=47|F1950=47|F1960=47|F1970=47|F1980=47|F1990=47|F2000=47|F2010=47|F2020=47|F2030=47|F2040=47|F2050=47|F2060=47|F2070=47|F2080=47|F2090=47|F2100=47|F2110=47|F2120=47|F2130=47|F2140=47|F2150=47|F2160=47|F2170=47|F2180=47|F2190=47|F2200=47|F2210=47|F2220=47|F2230=47|F2240=47|F2250=47|F2260=47|F2270=47|F2280=47|F2290=47|F2300=47|F2310=47|F2320=47|F2330=47|F2340=47|F2350=47|F2360=47|F2370=47|F2380=47|F2390=47|F2400=47|F2410=47|F2420=47|F2430=47|F2440=47
 [Table23]
 SchemaName=
 TableName=Espressif$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=104|Footprint Ref0=104|Library Path0=138|Footprint Path0=98|Description0=82|Item0=130|Part Number0=207|Supplier 10=75|Package / Case0=99|Qualification0=120|Termination0=85|Number of Terminations0=148|RoHS Compliant0=107|Frequency0=103|Output Power0=96|Interface Type0=246|Supply Voltage - Max0=132|Supply Voltage - Min0=131|Antenna Connector Type0=151|Protocol Supported0=153|Security0=189|Product0=127|Series0=89|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=93|HelpURL0=551|Category0=127
 [Table24]
 SchemaName=
 TableName=Ethernet ICs$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=77|Footprint Ref0=92|Library Path0=157|Footprint Path0=108|Description0=322|Item0=62|Part Number0=96|Supplier 10=75|Package / Case0=99|Qualification0=120|Termination0=85|Number of Terminations0=148|RoHS Compliant0=107|Supply Voltage - Max0=132|Supply Voltage - Min0=131|Interface Type0=95|Supply Current - Max0=131|Standard0=102|Number of Transceivers0=143|Product0=68|Series0=59|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=93|HelpURL0=442|Category0=69
 [Table25]
 SchemaName=
 TableName=Ferrite Beads$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=77|Footprint Ref0=92|Library Path0=159|Footprint Path0=110|Description0=716|Item0=140|Part Number0=119|Supplier 10=91|Package / Case0=100|Qualification0=120|Termination Style0=112|RoHS Compliant0=107|Impedance0=79|Maximum DC Current0=132|Maximum DC Resistance0=147|Number of Channels0=129|Number of Elements0=127|Shielding0=72|Test Frequency0=100|Maximum Operating Temperature0=196|Minimum Operating Temperature0=195|Product0=101|Series0=73|Tolerance0=73|Value0=140|Manufacturer0=103|HelpURL0=467|Category0=74
 [Table26]
 SchemaName=
 TableName=Flip-Flops$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=125|Footprint Ref0=92|Library Path0=144|Footprint Path0=98|Description0=253|Item0=124|Part Number0=124|Supplier 10=75|Package / Case0=99|Qualification0=120|RoHS Compliant0=107|Number of Channels0=129|Supply Voltage - Min0=131|Supply Voltage - Max0=132|Quiescent Current0=116|Logic Family0=85|Logic Type0=175|Input Type0=78|Output Type0=88|Propagation Delay Time0=145|High Level Output Current0=159|Low Level Output Current0=155|Product0=63|Series0=71|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=93|HelpURL0=376|Category0=70
 [Table27]
 SchemaName=
 TableName=Fuse$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=77|Footprint Ref0=92|Library Path0=117|Footprint Path0=98|Description0=497|Item0=104|Part Number0=104|Supplier 10=75|Package / Case0=100|Qualification0=120|Termination Style0=112|RoHS Compliant0=107|Maximum Voltage0=115|Trip Current0=85|Hold Current0=90|Current Rating - Max0=130|Resistance0=77|Pd - Power Dissipation0=139|Maximum Operating Temperature0=196|Minimum Operating Temperature0=195|Product0=116|Series0=75|Value0=52|Manufacturer0=93|HelpURL0=802|Category0=129
 [Table28]
 SchemaName=
 TableName=Hot Swap Voltage Controllers$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=77|Footprint Ref0=92|Library Path0=252|Footprint Path0=203|Description0=752|Item0=91|Part Number0=91|Supplier 10=75|Package / Case0=99|Qualification0=120|RoHS Compliant0=107|Number of Channels0=129|Operating Supply Current0=156|Current Limit0=89|Supply Voltage - Min0=131|Supply Voltage - Max0=132|Power Fail Detection0=129|Product0=125|Series0=53|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=100|HelpURL0=1694|Category0=161
 [Table29]
 SchemaName=
 TableName=Inductance$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=164|Footprint Ref0=103|Library Path0=150|Footprint Path0=101|Description0=922|Item0=107|Part Number0=126|Supplier 10=75|Package / Case0=105|Length0=59|Width0=55|Height0=58|Core Material0=95|Qualification0=120|Termination Style0=112|RoHS Compliant0=107|Maximum DC Current0=132|Maximum DC Resistance0=147|Number of Channels0=129|Saturation Current0=119|Shielding0=81|Self Resonant Frequency0=150|Maximum Operating Temperature0=196|Minimum Operating Temperature0=195|Product0=155|Series0=64|Tolerance0=74|Value0=52|Manufacturer0=103|HelpURL0=712|Category0=169| 0=26
 [Table30]
 SchemaName=
 TableName=Interface - IO Expanders$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=77|Footprint Ref0=92|Library Path0=216|Footprint Path0=167|Description0=325|Item0=97|Part Number0=97|Supplier 10=75|Package / Case0=99|Qualification0=120|RoHS Compliant0=107|Number of I/Os0=102|Interface Type0=98|Interrupt Output0=110|Supply Voltage - Min0=131|Supply Voltage - Max0=132|Maximum Clock Frequency0=159|ESD Protection0=99|Output Current0=103|Pd - Power Dissipation0=139|Propagation Delay Time0=145|Product0=80|Series0=61|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=93|HelpURL0=465|Category0=135
 [Table31]
 SchemaName=
 TableName=Inverters$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=80|Footprint Ref0=92|Library Path0=137|Footprint Path0=98|Description0=195|Item0=101|Part Number0=101|Supplier 10=75|Package / Case0=99|Qualification0=120|Termination0=85|Number of Terminations0=148|RoHS Compliant0=107|Number of Circuits0=119|Logic Type0=77|Supply Voltage - Max0=132|Supply Voltage - Min0=131|High Level Output Current0=159|Low Level Output Current0=155|Quiescent Current0=116|Propagation Delay Time0=145|Product0=63|Series0=80|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=93|HelpURL0=339|Category0=69
 [Table32]
 SchemaName=
 TableName=Isolated DC DC Converters$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=95|Footprint Ref0=97|Library Path0=179|Footprint Path0=179|Description0=996|Item0=100|Part Number0=100|Supplier 10=75|Package / Case0=99|Length0=59|Width0=55|Height0=58|Qualification0=89|Termination0=85|Number of Terminations0=148|RoHS Compliant0=107|Output Power0=96|Input Voltage, Min0=120|Input Voltage, Max0=121|Number of Outputs0=124|Output Voltage-Channel 10=160|Output Current-Channel 10=159|Output Voltage-Channel 20=160|Output Current-Channel 20=159|Industry0=65|Isolation Voltage0=111|Product0=144|Series0=66|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=93|HelpURL0=404|Category0=226
 [Table33]
 SchemaName=
 TableName=Isolators$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=77|Footprint Ref0=92|Library Path0=132|Footprint Path0=98|Description0=299|Item0=119|Part Number0=119|Supplier 10=75|Package / Case0=99|Qualification0=120|Termination0=85|Number of Terminations0=148|RoHS Compliant0=107|Number of Channels0=129|Polarity0=151|Isolation Voltage0=111|Isolation Type0=216|Data Rate0=90|Supply Voltage - Min0=131|Supply Voltage - Max0=132|Supply Current - Max0=131|Propagation Delay Time0=145|Product0=89|Series0=65|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=107|HelpURL0=444|Category0=89
 [Table34]
 SchemaName=
 TableName=LED Display Drivers$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=111|Footprint Ref0=94|Library Path0=194|Footprint Path0=141|Description0=300|Item0=94|Part Number0=94|Supplier 10=75|Qualification0=120|Termination0=85|Number of Terminations0=148|Package / Case0=99|Number of Digits0=111|Number of Segments0=131|Number of LEDs0=105|Supply Current0=100|Operating Supply Voltage0=157|High Level Output Current0=159|Low Level Output Current0=155|Pd - Power Dissipation0=139|Product0=105|Series0=55|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=113|HelpURL0=381|Category0=105
 [Table35]
 SchemaName=
 TableName=LED Displays & Accessories$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=304|Footprint Ref0=92|Library Path0=230|Footprint Path0=181|Description0=1165|Item0=75|Part Number0=87|Supplier 10=75|Package / Case0=123|Length0=59|Height0=58|Width0=55|Qualification0=120|Termination0=85|Number of Terminations0=148|RoHS Compliant0=107|Display Type0=87|Number of Digits0=111|Character Size0=95|Illumination Colour0=123|Wavelength0=85|Configuration0=101|Luminous Intensity0=120|Forward Current0=108|Forward Voltage0=109|Power Consumption0=128|Product0=72|Series0=53|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=93|HelpURL0=337|Category0=145
 [Table36]
 SchemaName=
 TableName=LED Lighting Drivers$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=77|Footprint Ref0=92|Library Path0=200|Footprint Path0=151|Description0=450|Item0=104|Part Number0=104|Supplier 10=75|Package / Case0=99|Qualification0=120|RoHS Compliant0=107|Supply Voltage - Min0=131|Supply Voltage - Max0=132|Number of Outputs0=124|Output Current0=103|Topology0=72|Operating Frequency0=132|Output Voltage0=104|Dimming0=75|Product0=65|Series0=53|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=100|HelpURL0=896|Category0=111
 [Table37]
 SchemaName=
 TableName=LEDs$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=171|Footprint Ref0=155|Library Path0=112|Footprint Path0=98|Description0=1232|Item0=133|Part Number0=133|Supplier 10=75|Package / Case0=100|Length0=59|Height0=58|Width0=55|Qualification0=120|Termination0=85|Number of Terminations0=148|RoHS Compliant0=107|Orientation0=83|Lens Shape0=81|Lens Transparency0=117|Configuration0=96|Material0=65|Illumination Colour0=123|Forward Current0=108|Forward Voltage0=109|Wavelength/Colour Temperature0=192|Luminous Intensity0=120|Viewing Angle0=98|Power Rating0=92|Lens Colour0=84|Moisture Sensitive0=117|Product0=108|Series0=68|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=130|HelpURL0=461|Category0=164
 [Table38]
 SchemaName=
 TableName=LVDS Interface IC$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=77|Footprint Ref0=92|Library Path0=184|Footprint Path0=135|Description0=204|Item0=66|Part Number0=94|Supplier 10=75|Package / Case0=99|Qualification0=120|RoHS Compliant0=107|Number of Drivers0=116|Number of Receivers0=128|Data Rate0=73|Input Type0=78|Output Type0=88|Supply Voltage - Min0=131|Supply Voltage - Max0=132|Operating Supply Current0=156|Product0=95|Series0=66|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=100|HelpURL0=914|Category0=95
 [Table39]
 SchemaName=
 TableName=Linear Voltage Regulator$
@@ -256,152 +367,233 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=77|Footprint Ref0=92|Library Path0=225|Footprint Path0=176|Description0=439|Item0=108|Part Number0=108|Supplier 10=75|Package / Case0=99|Qualification0=120|Termination0=85|Number of Terminations0=148|RoHS Compliant0=107|Polarity0=61|Number of Outputs0=124|Input Voltage - Min0=124|Input Voltage - Max0=125|Output Type0=88|Output Current0=103|Output Voltage0=104|Quiescent Current0=116|Load Regulation0=108|Line Regulation0=104|Product0=141|Series0=53|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=107|HelpURL0=390|Category0=141
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=118|Footprint Ref0=92|Library Path0=225|Footprint Path0=176|Description0=439|Item0=108|Part Number0=108|Supplier 10=75|Package / Case0=99|Qualification0=120|Termination0=85|Number of Terminations0=148|RoHS Compliant0=107|Polarity0=61|Number of Outputs0=124|Input Voltage - Min0=124|Input Voltage - Max0=125|Output Type0=88|Output Current0=103|Output Voltage0=104|Quiescent Current0=116|Load Regulation0=108|Line Regulation0=104|Product0=141|Series0=62|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=107|HelpURL0=719|Category0=141
 [Table40]
 SchemaName=
 TableName=Logic Gates$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=98|Footprint Ref0=92|Library Path0=154|Footprint Path0=105|Description0=191|Item0=76|Part Number0=87|Supplier 10=75|Package / Case0=99|Qualification0=120|RoHS Compliant0=107|Number of Channels0=129|Number of Gates0=110|Number of Input Lines0=138|Number of Output Lines0=148|Supply Voltage - Min0=131|Supply Voltage - Max0=132|Low Level Output Current0=155|High Level Output Current0=159|Propagation Delay Time0=145|Logic Family0=85|Logic Function0=99|Product0=117|Series0=53|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=93|HelpURL0=347|Category0=99
 [Table41]
 SchemaName=
 TableName=MOSFETs$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=77|Footprint Ref0=121|Library Path0=136|Footprint Path0=98|Description0=262|Item0=105|Part Number0=107|Supplier 10=75|Package / Case0=121|Qualification0=120|Termination0=85|Number of Terminations0=148|RoHS Compliant0=107|Configuration0=96|Technology0=83|Transistor Polarity0=115|Number of Channels0=129|Drain-Source Breakdown Voltage0=194|Continuous Drain Current0=157|Drain-Source Resistance0=147|Gate-Source Voltage0=129|Gate-Source Threshold Voltage0=184|Gate Charge0=87|Power Dissipation0=116|Channel Mode0=99|Product0=116|Series0=85|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=149|HelpURL0=928|Category0=69
 [Table42]
 SchemaName=
 TableName=Memory & Data Storage$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=104|Footprint Ref0=92|Library Path0=208|Footprint Path0=159|Description0=283|Item0=91|Part Number0=91|Supplier 10=75|Package / Case0=99|Qualification0=120|Termination0=85|Number of Terminations0=148|RoHS Compliant0=107|Supply Voltage - Max0=132|Supply Voltage - Min0=131|Interface Type0=95|Maximum Clock Frequency0=159|Organisation0=91|Data Bus Width0=103|Timing Type0=85|Product0=63|Series0=68|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=127|HelpURL0=557|Category0=131
 [Table43]
 SchemaName=
 TableName=Memory Cards$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=77|Footprint Ref0=92|Library Path0=168|Footprint Path0=119|Description0=264|Item0=106|Part Number0=106|Supplier 10=75|Package / Case0=99|Qualification0=120|RoHS Compliant0=107|Memory Size0=87|Sustained Write0=105|Sustained Read0=103|Interface Type0=95|Operating Supply Voltage0=157|Performance0=101|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=93|HelpURL0=488|Category0=81
 [Table44]
 SchemaName=
 TableName=Mounting holes$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=86|Footprint Ref0=92|Library Path0=173|Footprint Path0=124|Description0=169|Item0=61|Part Number0=124|Supplier 10=75|Package / Case0=99|Qualification0=120|Termination0=85|Number of Terminations0=148|RoHS Compliant0=107|Manufacturer0=93|HelpURL0=611|Category0=86
 [Table45]
 SchemaName=
 TableName=Multivibrators$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=131|Library Ref0=79|Footprint Ref0=92|Library Path0=160|Footprint Path0=111|Description0=226|Item0=79|Supplier0=66|Voltage - Supply0=108|Independent Circuits0=131|Schmitt Trigger Input0=132|Propagation Delay0=118|Current - Output High, Low0=165|Logic Type0=77|Case0=55|Manufacturer0=107|HelpURL0=604|Category0=117|F190=41|F200=41|F210=41|F220=41|F230=41|F240=41|F250=41|F260=41|F270=41|F280=41|F290=41|F300=41|F310=41|F320=41|F330=41|F340=41|F350=41
 [Table46]
 SchemaName=
 TableName=Operational Amplifiers$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=230|Footprint Ref0=92|Library Path0=211|Footprint Path0=162|Description0=395|Item0=108|Part Number0=108|Supplier 10=75|Package / Case0=99|Qualification0=120|RoHS Compliant0=107|Number of Channels0=129|Supply Voltage - Min0=131|Supply Voltage - Max0=132|GBP - Gain Bandwidth Product0=179|Output Current per Channel0=169|SR - Slew Rate0=96|Vos - Input Offset Voltage0=158|Ib - Input Bias Current0=136|Operating Supply Current0=156|Shutdown0=80|CMRR - Common Mode Rejection Ratio0=224|PSRR - Power Supply Rejection Ratio0=210|en - Input Voltage Noise Density0=190|Output Type0=88|Product0=187|Series0=75|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=107|HelpURL0=651|Category0=187
 [Table47]
 SchemaName=
 TableName=PMIC - Supervisors$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=162|Library Ref0=81|Footprint Ref0=92|Library Path0=147|Footprint Path0=98|Description0=498|Item0=105|Part Number0=184|Supplier 10=75|Package / Case0=99|Qualification0=120|Termination0=85|Number of Terminations0=148|RoHS Compliant0=107|Supply Voltage - Max0=132|Supply Voltage - Min0=131|Voltage - Threshold0=125|Overvoltage Threshold0=140|Undervoltage Threshold0=148|Pd - Power Dissipation0=139|Number of Voltages Monitored0=184|Output0=163|Logic Type0=160|Reset Delay Time0=109|Operating Supply Current0=156|Product0=110|Series0=55|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=93|HelpURL0=507|Category0=163|F330=41|F340=41|F350=41|F360=41|F370=41|F380=41|F390=41|F400=41|F410=41|F420=41|F430=41|F440=41|F450=41|F460=41|F470=41|F480=41|F490=41
 [Table48]
 SchemaName=
 TableName=PMIC - Voltage Regulators$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=157|Library Ref0=117|Footprint Ref0=92|Library Path0=194|Footprint Path0=145|Description0=584|Item0=117|Supplier0=66|Output Type0=88|Output Configuration0=137|Function0=69|Topology0=72|Number of Regulators0=137|Voltage - Input (Min)0=130|Voltage - Input (Max)0=131|Voltage - Output (Min/Fixed)0=171|Voltage - Output (Max)0=141|Current - Output0=110|Frequency - Switching0=137|Case0=61|Manufacturer0=109|HelpURL0=894|Category0=157|F240=41|F250=41|F260=41|F270=41|F280=41|F290=41|F300=41|F310=41|F320=41|F330=41|F340=41|F350=41|F360=41|F370=41|F380=41|F390=41|F400=41
 [Table49]
 SchemaName=
 TableName=Photocoupler$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=92|Footprint Ref0=96|Library Path0=163|Footprint Path0=114|Description0=390|Item0=92|Part Number0=92|Supplier 10=75|Package / Case0=99|Qualification0=120|RoHS Compliant0=107|Relay Contact Form0=122|Number Channel0=110|Load Current Rating0=127|Load Voltage Rating0=128|Control Voltage Range0=141|Pd - Power Dissipation0=139|Data Rate0=73|Moisture Sensitive0=117|Input to Output Isolation Method0=198|Output Type0=88|Input Current0=93|Product0=142|Series0=64|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=126|HelpURL0=416|Category0=142
 [Table50]
 SchemaName=
 TableName=Photoresistors $
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=82|Footprint Ref0=92|Library Path0=167|Footprint Path0=118|Description0=82|Item0=45|Part Number0=87|Supplier 10=75|Package / Case0=99|Qualification0=120|RoHS Compliant0=107|Voltage Rating0=100|Power Dissipation0=116|Wavelength0=85|Value0=89|Rise Time0=71|Fall Time0=68|Product0=82|Series0=53|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=93|HelpURL0=271|Category0=257
 [Table51]
 SchemaName=
 TableName=Pick & Place Pad$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=91|Footprint Ref0=119|Library Path0=109|Footprint Path0=109|Item0=119|Part Number0=119|Supplier 10=75|Package / Case0=99|Qualification0=120|Termination0=85|Number of Terminations0=148|RoHS Compliant0=107|Category0=91
 [Table52]
 SchemaName=
 TableName=Power Switch ICs$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=128|Footprint Ref0=92|Library Path0=184|Footprint Path0=135|Description0=669|Item0=109|Part Number0=109|Supplier 10=75|Package / Case0=99|Qualification0=120|Termination0=85|Number of Terminations0=148|RoHS Compliant0=107|Number of Outputs0=124|Output Current0=103|Current Limit0=89|On Resistance - Max0=127|On Time - Max0=97|Off Time - Max0=98|Operating Supply Voltage - Min0=187|Operating Supply Voltage - Max0=188|Product0=111|Series0=68|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=114|HelpURL0=931|Category0=202
 [Table53]
+SchemaName=
+TableName=Pressure Sensors$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=77|Footprint Ref0=92|Library Path0=181|Footprint Path0=132|Description0=567|Item0=64|Part Number0=87|Supplier 10=75|Package / Case0=99|Qualification0=120|Termination0=85|Number of Terminations0=148|RoHS Compliant0=107|Pressure Type0=93|Operating Pressure0=122|Accuracy0=67|Output Type0=88|Interface Type0=95|Supply Voltage - Max0=132|Supply Voltage - Min0=131|Operating Supply Current0=156|Product0=165|Series0=53|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=104|HelpURL0=323|Category0=165
+[Table54]
 SchemaName=
 TableName=Proximity & Light Sensors$
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table54]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=77|Footprint Ref0=92|Library Path0=215|Footprint Path0=166|Description0=323|Item0=95|Part Number0=95|Supplier 10=75|Package / Case0=99|Qualification0=120|Termination0=85|Number of Terminations0=148|RoHS Compliant0=107|Peak Wavelength0=112|Sensing Distance0=111|Operating Supply Current0=156|Operating Supply Voltage0=157|Interface Type0=95|Supply Voltage - Max0=132|Supply Voltage - Min0=131|Moisture Sensitive0=117|Product0=227|Series0=53|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=104|HelpURL0=346|Category0=138
+[Table55]
 SchemaName=
 TableName=RFID$
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table55]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Library Ref0=77|Footprint Ref0=92|Library Path0=117|Footprint Path0=98|Description0=801|Item0=68|Supplier0=66|Interfaces0=73|Is0=36|Vdss0=47|Case0=71|Manufacturer0=93|HelpURL0=296|Category0=74|F160=41|F170=41|F180=41|F190=41|F200=41|F210=41|F220=41|F230=41|F240=41|F250=41|F260=41|F270=41|F280=41|F290=41|F300=41|F310=41|F320=41|F330=41|F340=41|F350=41|F360=41|F370=41|F380=41|F390=41|F400=41|F410=41|F420=41|F430=41|F440=41|F450=41
+[Table56]
 SchemaName=
 TableName=Real Time Clock$
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table56]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=77|Footprint Ref0=92|Library Path0=113|Footprint Path0=98|Description0=353|Item0=60|Part Number0=87|Supplier 10=75|Package / Case0=99|Qualification0=120|Termination0=85|Number of Terminations0=148|RoHS Compliant0=107|RTC Bus Interface0=112|Date Format0=86|Time Format0=86|Battery Backup Switching0=152|Supply Voltage - Min0=131|Supply Voltage - Max0=132|Product0=95|Series0=53|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=93|HelpURL0=320|Category0=88
+[Table57]
 SchemaName=
 TableName=Resistor$
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table57]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=197|Library Ref0=120|Footprint Ref0=125|Library Path0=134|Footprint Path0=98|Description0=381|Item0=104|Part Number0=138|Supplier 10=75|Package / Case0=100|Voltage Rating 0=103|Qualification0=120|Termination0=85|Number of Resistors0=127|Number of Terminations0=148|Power Rating0=92|RoHS Compliant0=107|Series0=99|Max Operating Temperature0=168|Min Operating Temperature0=167|Tolerance0=73|Temperature Coefficient0=147|Value0=52|Manufacturer0=182|HelpURL0=656|Category0=147
+[Table58]
 SchemaName=
 TableName=SN-Lable$
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table58]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=77|Footprint Ref0=97|Library Path0=89|Footprint Path0=98|Item0=97|Part Number0=97|Supplier 10=75|Package / Case0=99|Qualification0=120|Termination0=85|Number of Terminations0=148|RoHS Compliant0=107|Category0=69
+[Table59]
 SchemaName=
 TableName=STMicroelectronics$
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table59]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=80|Footprint Ref0=92|Library Path0=189|Footprint Path0=140|Description0=618|Item0=111|Part Number0=111|Supplier 10=75|Package / Case0=99|Qualification0=120|Termination0=85|Number of Terminations0=148|RoHS Compliant0=107|Maximum Clock Frequency0=159|Output Power0=96|Interface Type0=373|Supply Voltage - Max0=132|Supply Voltage - Min0=131|Number of I/Os0=102|Program Memory Size0=133|Data RAM Size0=97|Product0=161|Series0=80|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=104|HelpURL0=345|Category0=154
+[Table60]
 SchemaName=
 TableName=Sensor Interface$
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table60]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=77|Footprint Ref0=92|Library Path0=178|Footprint Path0=129|Description0=423|Item0=101|Part Number0=101|Supplier 10=75|Package / Case0=99|Qualification0=120|RoHS Compliant0=107|Supply Voltage - Min0=131|Supply Voltage - Max0=132|Interface Type0=97|Input Type0=137|Product0=110|Series0=61|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=107|HelpURL0=335|Category0=91
+[Table61]
 SchemaName=
 TableName=Solder Bridge Jumper$
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table61]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=123|Footprint Ref0=123|Library Path0=214|Footprint Path0=165|Description0=421|Item0=123|Part Number0=123|Supplier 10=75|Package / Case0=100|Qualification0=120|Termination0=85|Number of Terminations0=148|Power Rating0=92|RoHS Compliant0=107|Series0=53|Max Operating Temperature0=168|Min Operating Temperature0=167|Tolerance0=73|Temperature Coefficient0=147|Value0=52|Manufacturer0=93|HelpURL0=434|Category0=117
+[Table62]
 SchemaName=
 TableName=Supercapacitors$
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table62]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=90|Footprint Ref0=103|Library Path0=175|Footprint Path0=126|Description0=254|Item0=80|Part Number0=87|Supplier 10=75|Package / Case0=103|Length0=59|Diameter0=69|Voltage Rating 0=103|Qualification0=120|Termination Style0=112|Termination0=85|Number of Terminations0=148|RoHS Compliant0=107|ESR0=53|Life0=61|Product0=171|Series0=53|Max Operating Temperature0=168|Min Operating Temperature0=167|Tolerance0=80|Value0=60|Manufacturer0=113|HelpURL0=423|Category0=177
+[Table63]
 SchemaName=
 TableName=Switch ICs$
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table63]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=108|Footprint Ref0=92|Library Path0=147|Footprint Path0=98|Description0=439|Item0=113|Part Number0=113|Supplier 10=75|Package / Case0=99|Qualification0=120|Termination0=85|Number of Terminations0=148|RoHS Compliant0=107|Number of Switches0=126|Configuration0=96|Number of Bits0=99|Propagation Delay - Max0=149|On Resistance - Max0=127|Supply Voltage - Min0=131|Supply Voltage - Max0=132|Supply Current - Max0=131|Product0=181|Series0=83|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=114|HelpURL0=930|Category0=119|F300=41|F310=41|F320=41|F330=41|F340=41|F350=41|F360=41|F370=41|F380=41|F390=41|F400=41|F410=41|F420=41|F430=41|F440=41|F450=41|F460=41|F470=41|F480=41|F490=41|F500=41|F510=41|F520=41|F530=41|F540=41|F550=41|F560=41|F570=41|F580=41|F590=41|F600=41|F610=41|F620=41|F630=41|F640=41|F650=41|F660=41|F670=41|F680=41|F690=41|F700=41|F710=41|F720=41|F730=41|F740=41|F750=41|F760=41|F770=41|F780=41|F790=41|F800=41|F810=41|F820=41|F830=41|F840=41|F850=41|F860=41|F870=41|F880=41|F890=41|F900=41|F910=41|F920=41|F930=41|F940=41|F950=41|F960=41|F970=41|F980=41|F990=41|F1000=47|F1010=47|F1020=47|F1030=47|F1040=47|F1050=47|F1060=47|F1070=47|F1080=47|F1090=47|F1100=47|F1110=47|F1120=47|F1130=47|F1140=47|F1150=47|F1160=47|F1170=47|F1180=47|F1190=47|F1200=47|F1210=47|F1220=47|F1230=47|F1240=47|F1250=47|F1260=47|F1270=47|F1280=47|F1290=47|F1300=47|F1310=47|F1320=47|F1330=47|F1340=47|F1350=47|F1360=47|F1370=47|F1380=47|F1390=47|F1400=47|F1410=47|F1420=47|F1430=47|F1440=47|F1450=47|F1460=47|F1470=47|F1480=47|F1490=47|F1500=47|F1510=47|F1520=47|F1530=47|F1540=47|F1550=47|F1560=47|F1570=47|F1580=47|F1590=47|F1600=47|F1610=47|F1620=47|F1630=47|F1640=47|F1650=47|F1660=47|F1670=47|F1680=47|F1690=47|F1700=47|F1710=47|F1720=47|F1730=47|F1740=47|F1750=47|F1760=47|F1770=47|F1780=47|F1790=47|F1800=47|F1810=47|F1820=47|F1830=47|F1840=47|F1850=47|F1860=47|F1870=47|F1880=47|F1890=47|F1900=47|F1910=47|F1920=47|F1930=47|F1940=47|F1950=47|F1960=47|F1970=47|F1980=47|F1990=47|F2000=47|F2010=47|F2020=47|F2030=47|F2040=47|F2050=47|F2060=47|F2070=47|F2080=47|F2090=47|F2100=47|F2110=47|F2120=47|F2130=47|F2140=47|F2150=47|F2160=47|F2170=47|F2180=47|F2190=47|F2200=47|F2210=47|F2220=47|F2230=47|F2240=47|F2250=47|F2260=47|F2270=47|F2280=47|F2290=47|F2300=47|F2310=47|F2320=47|F2330=47|F2340=47|F2350=47|F2360=47|F2370=47|F2380=47|F2390=47|F2400=47|F2410=47|F2420=47|F2430=47|F2440=47|F2450=47|F2460=47|F2470=47|F2480=47|F2490=47|F2500=47|F2510=47|F2520=47
+[Table64]
 SchemaName=
 TableName=Switch$
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table64]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=189|Footprint Ref0=114|Library Path0=127|Footprint Path0=98|Description0=293|Item0=126|Part Number0=130|Supplier 10=75|Package / Case0=114|Length0=59|Width0=55|Height0=58|Qualification0=120|Termination0=85|Number of Terminations0=148|RoHS Compliant0=107|Switch Function0=106|Contact Form0=92|Current Rating0=99|Voltage Rating0=100|Max Operating Temperature0=168|Min Operating Temperature0=167|Series0=59|Manufacturer0=139|HelpURL0=446|Category0=140|F280=41|F290=41|F300=41|F310=41|F320=41|F330=41|F340=41|F350=41|F360=41|F370=41|F380=41|F390=41|F400=41|F410=41|F420=41|F430=41|F440=41|F450=41|F460=41|F470=41|F480=41|F490=41|F500=41|F510=41|F520=41|F530=41
+[Table65]
 SchemaName=
 TableName=Switching Voltage Regulators$
 Enabled=True
@@ -410,7 +602,7 @@ UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
 BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=129|Footprint Ref0=110|Library Path0=250|Footprint Path0=201|Description0=663|Item0=128|Part Number0=128|Supplier 10=75|Package / Case0=110|Qualification0=120|Termination0=85|Number of Terminations0=148|RoHS Compliant0=107|Topology0=72|Output Voltage - Min0=134|Output Voltage - Max0=135|Output Current0=103|Number of Outputs0=124|Input Voltage - Min0=124|Input Voltage - Max0=125|Quiescent Current0=116|Switching Frequency0=130|Load Regulation0=108|Operating Supply Current0=156|Product0=118|Series0=80|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=100|HelpURL0=919|Category0=161|F330=41|F340=41|F350=41|F360=41|F370=41|F380=41|F390=41|F400=41|F410=41|F420=41|F430=41|F440=41|F450=41|F460=41|F470=41|F480=41|F490=41|F500=41|F510=41|F520=41|F530=41|F540=41|F550=41|F560=41|F570=41|F580=41|F590=41|F600=41|F610=41|F620=41|F630=41|F640=41|F650=41|F660=41|F670=41|F680=41|F690=41|F700=41|F710=41|F720=41|F730=41|F740=41|F750=41|F760=41|F770=41|F780=41|F790=41|F800=41|F810=41|F820=41|F830=41|F840=41|F850=41|F860=41|F870=41|F880=41|F890=41|F900=41|F910=41|F920=41|F930=41|F940=41|F950=41|F960=41|F970=41|F980=41|F990=41|F1000=47|F1010=47|F1020=47|F1030=47|F1040=47|F1050=47|F1060=47|F1070=47|F1080=47|F1090=47|F1100=47|F1110=47|F1120=47|F1130=47|F1140=47|F1150=47|F1160=47|F1170=47|F1180=47|F1190=47|F1200=47|F1210=47|F1220=47|F1230=47|F1240=47|F1250=47|F1260=47|F1270=47|F1280=47|F1290=47|F1300=47|F1310=47|F1320=47|F1330=47|F1340=47|F1350=47|F1360=47|F1370=47|F1380=47|F1390=47|F1400=47|F1410=47|F1420=47|F1430=47|F1440=47|F1450=47|F1460=47|F1470=47|F1480=47|F1490=47|F1500=47|F1510=47|F1520=47|F1530=47|F1540=47|F1550=47|F1560=47|F1570=47|F1580=47|F1590=47|F1600=47|F1610=47|F1620=47|F1630=47|F1640=47|F1650=47|F1660=47|F1670=47|F1680=47|F1690=47|F1700=47|F1710=47|F1720=47|F1730=47|F1740=47|F1750=47|F1760=47|F1770=47|F1780=47|F1790=47|F1800=47|F1810=47|F1820=47|F1830=47|F1840=47|F1850=47|F1860=47|F1870=47|F1880=47|F1890=47|F1900=47|F1910=47|F1920=47|F1930=47|F1940=47|F1950=47|F1960=47|F1970=47|F1980=47|F1990=47|F2000=47|F2010=47|F2020=47|F2030=47|F2040=47|F2050=47|F2060=47|F2070=47|F2080=47|F2090=47|F2100=47|F2110=47|F2120=47|F2130=47|F2140=47|F2150=47|F2160=47|F2170=47|F2180=47|F2190=47|F2200=47|F2210=47|F2220=47|F2230=47|F2240=47|F2250=47|F2260=47|F2270=47|F2280=47|F2290=47|F2300=47|F2310=47|F2320=47|F2330=47|F2340=47|F2350=47|F2360=47|F2370=47|F2380=47|F2390=47|F2400=47|F2410=47|F2420=47|F2430=47|F2440=47|F2450=47|F2460=47|F2470=47|F2480=47|F2490=47|F2500=47|F2510=47|F2520=47|F2530=47|F2540=47|F2550=47
-[Table65]
+[Table66]
 SchemaName=
 TableName=Temperature Sensors$
 Enabled=True
@@ -418,32 +610,44 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=90|Library Ref0=77|Footprint Ref0=92|Library Path0=198|Footprint Path0=154|Description0=732|Item0=48|Supplier0=66|Vdss0=78|Is0=40|Trip Temperature Threshold0=166|Selectable Hysteresis0=129|Accuracy0=67|Case0=51|Manufacturer0=100|HelpURL0=643|Category0=254|F180=41|F190=41|F200=41|F210=41|F220=41|F230=41|F240=41|F250=41|F260=41|F270=41|F280=41|F290=41|F300=41|F310=41|F320=41|F330=41|F340=41|F350=41|F360=41|F370=41|F380=41
-[Table66]
+BrowserOrder_Visible=Part Number0=87|Library Ref0=114|Footprint Ref0=92|Library Path0=198|Footprint Path0=154|Description0=291|Item0=60|Supplier Part Number 10=142|Supplier 10=75|Package / Case0=99|Qualification0=120|RoHS Compliant0=107|Supply Voltage - Max0=132|Supply Voltage - Min0=131|Standby Current0=107|Interface0=68|Response time0=98|Accuracy0=67|Product0=170|Series0=53|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=93|HelpURL0=351|Category0=71
+[Table67]
 SchemaName=
 TableName=Test point$
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table67]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=77|Footprint Ref0=141|Library Path0=92|Footprint Path0=98|Item0=130|Part Number0=87|Supplier 10=75|Package / Case0=99|Qualification0=120|Termination0=85|RoHS Compliant0=107|Number of Terminations0=148|Product0=131|Series0=53|HelpURL0=322|Manufacturer0=112|Category0=125
+[Table68]
 SchemaName=
 TableName=Thermistors$
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table68]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=87|Footprint Ref0=92|Library Path0=153|Footprint Path0=104|Description0=479|Item0=96|Part Number0=96|Supplier 10=75|Package / Case0=99|Diameter0=69|Length0=59|Width0=55|Qualification0=120|Termination0=85|Number of Terminations0=148|RoHS Compliant0=107|Number of Channels0=129|B Parameter0=83|Stable Current - Max0=128|Resistance0=77|Tolerance0=73|Beta Value0=77|Product Type0=92|Series0=53|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=93|HelpURL0=802|Category0=270
+[Table69]
 SchemaName=
 TableName=Transformer$
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table69]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=77|Footprint Ref0=92|Library Path0=155|Footprint Path0=106|Description0=852|Item0=108|Part Number0=108|Supplier 10=75|Package / Case0=99|Qualification0=120|Termination Style0=112|RoHS Compliant0=107|Inductance0=80|Isolation Voltage0=111|Number of Channels0=129|Application0=82|Length0=59|Width0=55|Height0=58|Product0=156|Core Material0=92|Maximum DC Current0=132|Maximum DC Resistance0=147|Series0=53|Maximum Operating Temperature0=196|Minimum Operating Temperature0=195|Manufacturer0=96|HelpURL0=692|Category0=221|F310=41
+[Table70]
 SchemaName=
 TableName=Transistor Optocouplers$
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table70]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=77|Footprint Ref0=92|Library Path0=220|Footprint Path0=169|Description0=646|Item0=58|Part Number0=87|Supplier 10=75|Package / Case0=99|Qualification0=120|RoHS Compliant0=107|Output Type0=113|Number Channel0=110|Isolation Voltage0=111|Current Transfer Ratio - Min0=167|Current Transfer Ratio - Max0=168|If - Forward Current0=125|Vf - Forward Voltage0=130|Maximum Collector Emitter Voltage0=203|Maximum Collector Current0=163|Maximum Collector Emitter Saturation Voltage0=260|Rise Time0=71|Fall Time0=68|Vr - Reverse Voltage0=126|Pd - Power Dissipation0=139|Product0=174|Series0=58|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=93|HelpURL0=355|Category0=174
+[Table71]
 SchemaName=
 TableName=Transistors$
 Enabled=True
@@ -452,7 +656,7 @@ UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
 BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=77|Footprint Ref0=92|Library Path0=149|Footprint Path0=100|Description0=290|Item0=92|Part Number0=92|Supplier 10=75|Package / Case0=99|Qualification0=120|Termination0=85|Number of Terminations0=148|RoHS Compliant0=107|Configuration0=96|Technology0=83|Transistor Polarity0=115|Number of Channels0=129|Collector- Emitter Voltage VCEO Max0=211|Collector- Base Voltage VCBO0=174|Emitter- Base Voltage VEBO0=163|Collector-Emitter Saturation Voltage0=209|Maximum DC Collector Current0=181|Gain Bandwidth Product fT0=162|Power Dissipation0=116|Product0=134|Series0=64|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=168|HelpURL0=391|Category0=129|F330=41|F340=41|F350=41|F360=41|F370=41
-[Table71]
+[Table72]
 SchemaName=
 TableName=Translation - Voltage Levels$
 Enabled=True
@@ -460,13 +664,16 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Item0=116|Part Number0=116|Supplier Part Number 10=142|Library Ref0=113|Footprint Ref0=92|Library Path0=231|Footprint Path0=182|Supplier 10=75|Package / Case0=99|Qualification0=120|RoHS Compliant0=107|Supply Voltage - Max0=132|Supply Voltage - Min0=131|Operating Supply Current0=156|Number of Channels0=129|Low Level Output Current0=155|High Level Output Current0=159|Output Type0=121|Propagation Delay Time0=145|Data Rate0=73|Type0=88|Logic Type0=88|Product0=149|Series0=55|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=100|HelpURL0=735|Description0=365|Category0=149
-[Table72]
+BrowserOrder_Visible=Supplier Part Number 10=142|Library Ref0=113|Footprint Ref0=92|Library Path0=231|Footprint Path0=182|Description0=365|Item0=116|Part Number0=116|Supplier 10=75|Package / Case0=99|Qualification0=120|RoHS Compliant0=107|Supply Voltage - Max0=132|Supply Voltage - Min0=131|Operating Supply Current0=156|Number of Channels0=129|Low Level Output Current0=155|High Level Output Current0=159|Output Type0=121|Propagation Delay Time0=145|Data Rate0=73|Type0=88|Logic Type0=88|Product0=149|Series0=55|Max Operating Temperature0=168|Min Operating Temperature0=167|Manufacturer0=100|HelpURL0=735|Category0=149
+[Table73]
 SchemaName=
 TableName=UART-COM-port$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Library Ref0=77|Footprint Ref0=92|Library Path0=151|Footprint Path0=102|Description0=367|Item0=55|Supplier0=66|Interfaces0=73|Data Rate0=73|Is0=45|Vdss0=47|Case0=53|Manufacturer0=93|HelpURL0=271|Category0=89|F170=41|F180=41|F190=41|F200=41|F210=41|F220=41|F230=41|F240=41|F250=41|F260=41|F270=41|F280=41|F290=41|F300=41|F310=41|F320=41|F330=41|F340=41|F350=41|F360=41|F370=41|F380=41|F390=41|F400=41|F410=41|F420=41|F430=41|F440=41|F450=41|F460=41|F470=41|F480=41|F490=41
 [FieldMap1]
 Options=FieldName=AC DC Power Modules$.Supplier Part Number 1|TableNameOnly=AC DC Power Modules$|FieldNameOnly=Supplier Part Number 1|FieldType=0|ParameterName=Supplier Part Number 1|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
@@ -504,17 +711,17 @@ Options=FieldName=Amplifier ICs$.Footprint Path|TableNameOnly=Amplifier ICs$|Fie
 [FieldMap18]
 Options=FieldName=Amplifier ICs$.Description|TableNameOnly=Amplifier ICs$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap19]
-Options=FieldName=Analog to Digital Converters$.Part Number|TableNameOnly=Analog to Digital Converters$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap20]
 Options=FieldName=Analog to Digital Converters$.Library Ref|TableNameOnly=Analog to Digital Converters$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap21]
+[FieldMap20]
 Options=FieldName=Analog to Digital Converters$.Footprint Ref|TableNameOnly=Analog to Digital Converters$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap22]
+[FieldMap21]
 Options=FieldName=Analog to Digital Converters$.Library Path|TableNameOnly=Analog to Digital Converters$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap23]
+[FieldMap22]
 Options=FieldName=Analog to Digital Converters$.Footprint Path|TableNameOnly=Analog to Digital Converters$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap24]
+[FieldMap23]
 Options=FieldName=Analog to Digital Converters$.Description|TableNameOnly=Analog to Digital Converters$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap24]
+Options=FieldName=Analog to Digital Converters$.Supplier Part Number 1|TableNameOnly=Analog to Digital Converters$|FieldNameOnly=Supplier Part Number 1|FieldType=0|ParameterName=Supplier Part Number 1|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap25]
 Options=FieldName=Audio$.Supplier Part Number 1|TableNameOnly=Audio$|FieldNameOnly=Supplier Part Number 1|FieldType=0|ParameterName=Supplier Part Number 1|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap26]
@@ -1090,238 +1297,250 @@ Options=FieldName=Power Switch ICs$.Footprint Path|TableNameOnly=Power Switch IC
 [FieldMap311]
 Options=FieldName=Power Switch ICs$.Description|TableNameOnly=Power Switch ICs$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap312]
-Options=FieldName=Proximity & Light Sensors$.Supplier Part Number 1|TableNameOnly=Proximity & Light Sensors$|FieldNameOnly=Supplier Part Number 1|FieldType=0|ParameterName=Supplier Part Number 1|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Pressure Sensors$.Supplier Part Number 1|TableNameOnly=Pressure Sensors$|FieldNameOnly=Supplier Part Number 1|FieldType=0|ParameterName=Supplier Part Number 1|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap313]
-Options=FieldName=Proximity & Light Sensors$.Library Ref|TableNameOnly=Proximity & Light Sensors$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Pressure Sensors$.Library Ref|TableNameOnly=Pressure Sensors$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap314]
-Options=FieldName=Proximity & Light Sensors$.Footprint Ref|TableNameOnly=Proximity & Light Sensors$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Pressure Sensors$.Footprint Ref|TableNameOnly=Pressure Sensors$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap315]
-Options=FieldName=Proximity & Light Sensors$.Library Path|TableNameOnly=Proximity & Light Sensors$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Pressure Sensors$.Library Path|TableNameOnly=Pressure Sensors$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap316]
-Options=FieldName=Proximity & Light Sensors$.Footprint Path|TableNameOnly=Proximity & Light Sensors$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Pressure Sensors$.Footprint Path|TableNameOnly=Pressure Sensors$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap317]
-Options=FieldName=Proximity & Light Sensors$.Description|TableNameOnly=Proximity & Light Sensors$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Pressure Sensors$.Description|TableNameOnly=Pressure Sensors$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap318]
-Options=FieldName=RFID$.Part Number|TableNameOnly=RFID$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Proximity & Light Sensors$.Supplier Part Number 1|TableNameOnly=Proximity & Light Sensors$|FieldNameOnly=Supplier Part Number 1|FieldType=0|ParameterName=Supplier Part Number 1|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap319]
-Options=FieldName=RFID$.Library Ref|TableNameOnly=RFID$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Proximity & Light Sensors$.Library Ref|TableNameOnly=Proximity & Light Sensors$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap320]
-Options=FieldName=RFID$.Footprint Ref|TableNameOnly=RFID$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Proximity & Light Sensors$.Footprint Ref|TableNameOnly=Proximity & Light Sensors$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap321]
-Options=FieldName=RFID$.Library Path|TableNameOnly=RFID$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Proximity & Light Sensors$.Library Path|TableNameOnly=Proximity & Light Sensors$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap322]
-Options=FieldName=RFID$.Footprint Path|TableNameOnly=RFID$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Proximity & Light Sensors$.Footprint Path|TableNameOnly=Proximity & Light Sensors$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap323]
-Options=FieldName=RFID$.Description|TableNameOnly=RFID$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Proximity & Light Sensors$.Description|TableNameOnly=Proximity & Light Sensors$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap324]
-Options=FieldName=Real Time Clock$.Supplier Part Number 1|TableNameOnly=Real Time Clock$|FieldNameOnly=Supplier Part Number 1|FieldType=0|ParameterName=Supplier Part Number 1|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RFID$.Part Number|TableNameOnly=RFID$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap325]
-Options=FieldName=Real Time Clock$.Library Ref|TableNameOnly=Real Time Clock$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RFID$.Library Ref|TableNameOnly=RFID$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap326]
-Options=FieldName=Real Time Clock$.Footprint Ref|TableNameOnly=Real Time Clock$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RFID$.Footprint Ref|TableNameOnly=RFID$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap327]
-Options=FieldName=Real Time Clock$.Library Path|TableNameOnly=Real Time Clock$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RFID$.Library Path|TableNameOnly=RFID$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap328]
-Options=FieldName=Real Time Clock$.Footprint Path|TableNameOnly=Real Time Clock$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RFID$.Footprint Path|TableNameOnly=RFID$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap329]
-Options=FieldName=Real Time Clock$.Description|TableNameOnly=Real Time Clock$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=RFID$.Description|TableNameOnly=RFID$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap330]
-Options=FieldName=Resistor$.Supplier Part Number 1|TableNameOnly=Resistor$|FieldNameOnly=Supplier Part Number 1|FieldType=0|ParameterName=Supplier Part Number 1|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Real Time Clock$.Supplier Part Number 1|TableNameOnly=Real Time Clock$|FieldNameOnly=Supplier Part Number 1|FieldType=0|ParameterName=Supplier Part Number 1|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap331]
-Options=FieldName=Resistor$.Library Ref|TableNameOnly=Resistor$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Real Time Clock$.Library Ref|TableNameOnly=Real Time Clock$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap332]
-Options=FieldName=Resistor$.Footprint Ref|TableNameOnly=Resistor$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Real Time Clock$.Footprint Ref|TableNameOnly=Real Time Clock$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap333]
-Options=FieldName=Resistor$.Library Path|TableNameOnly=Resistor$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Real Time Clock$.Library Path|TableNameOnly=Real Time Clock$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap334]
-Options=FieldName=Resistor$.Footprint Path|TableNameOnly=Resistor$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Real Time Clock$.Footprint Path|TableNameOnly=Real Time Clock$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap335]
-Options=FieldName=Resistor$.Description|TableNameOnly=Resistor$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Real Time Clock$.Description|TableNameOnly=Real Time Clock$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap336]
-Options=FieldName=SN-Lable$.Supplier Part Number 1|TableNameOnly=SN-Lable$|FieldNameOnly=Supplier Part Number 1|FieldType=0|ParameterName=Supplier Part Number 1|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor$.Supplier Part Number 1|TableNameOnly=Resistor$|FieldNameOnly=Supplier Part Number 1|FieldType=0|ParameterName=Supplier Part Number 1|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap337]
-Options=FieldName=SN-Lable$.Library Ref|TableNameOnly=SN-Lable$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor$.Library Ref|TableNameOnly=Resistor$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap338]
-Options=FieldName=SN-Lable$.Footprint Ref|TableNameOnly=SN-Lable$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor$.Footprint Ref|TableNameOnly=Resistor$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap339]
-Options=FieldName=SN-Lable$.Library Path|TableNameOnly=SN-Lable$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor$.Library Path|TableNameOnly=Resistor$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap340]
-Options=FieldName=SN-Lable$.Footprint Path|TableNameOnly=SN-Lable$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor$.Footprint Path|TableNameOnly=Resistor$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap341]
-Options=FieldName=STMicroelectronics$.Supplier Part Number 1|TableNameOnly=STMicroelectronics$|FieldNameOnly=Supplier Part Number 1|FieldType=0|ParameterName=Supplier Part Number 1|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistor$.Description|TableNameOnly=Resistor$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap342]
-Options=FieldName=STMicroelectronics$.Library Ref|TableNameOnly=STMicroelectronics$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=SN-Lable$.Supplier Part Number 1|TableNameOnly=SN-Lable$|FieldNameOnly=Supplier Part Number 1|FieldType=0|ParameterName=Supplier Part Number 1|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap343]
-Options=FieldName=STMicroelectronics$.Footprint Ref|TableNameOnly=STMicroelectronics$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=SN-Lable$.Library Ref|TableNameOnly=SN-Lable$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap344]
-Options=FieldName=STMicroelectronics$.Library Path|TableNameOnly=STMicroelectronics$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=SN-Lable$.Footprint Ref|TableNameOnly=SN-Lable$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap345]
-Options=FieldName=STMicroelectronics$.Footprint Path|TableNameOnly=STMicroelectronics$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=SN-Lable$.Library Path|TableNameOnly=SN-Lable$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap346]
-Options=FieldName=STMicroelectronics$.Description|TableNameOnly=STMicroelectronics$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=SN-Lable$.Footprint Path|TableNameOnly=SN-Lable$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap347]
-Options=FieldName=Sensor Interface$.Supplier Part Number 1|TableNameOnly=Sensor Interface$|FieldNameOnly=Supplier Part Number 1|FieldType=0|ParameterName=Supplier Part Number 1|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=STMicroelectronics$.Supplier Part Number 1|TableNameOnly=STMicroelectronics$|FieldNameOnly=Supplier Part Number 1|FieldType=0|ParameterName=Supplier Part Number 1|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap348]
-Options=FieldName=Sensor Interface$.Library Ref|TableNameOnly=Sensor Interface$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=STMicroelectronics$.Library Ref|TableNameOnly=STMicroelectronics$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap349]
-Options=FieldName=Sensor Interface$.Footprint Ref|TableNameOnly=Sensor Interface$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=STMicroelectronics$.Footprint Ref|TableNameOnly=STMicroelectronics$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap350]
-Options=FieldName=Sensor Interface$.Library Path|TableNameOnly=Sensor Interface$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=STMicroelectronics$.Library Path|TableNameOnly=STMicroelectronics$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap351]
-Options=FieldName=Sensor Interface$.Footprint Path|TableNameOnly=Sensor Interface$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=STMicroelectronics$.Footprint Path|TableNameOnly=STMicroelectronics$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap352]
-Options=FieldName=Sensor Interface$.Description|TableNameOnly=Sensor Interface$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=STMicroelectronics$.Description|TableNameOnly=STMicroelectronics$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap353]
-Options=FieldName=Solder Bridge Jumper$.Supplier Part Number 1|TableNameOnly=Solder Bridge Jumper$|FieldNameOnly=Supplier Part Number 1|FieldType=0|ParameterName=Supplier Part Number 1|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Sensor Interface$.Supplier Part Number 1|TableNameOnly=Sensor Interface$|FieldNameOnly=Supplier Part Number 1|FieldType=0|ParameterName=Supplier Part Number 1|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap354]
-Options=FieldName=Solder Bridge Jumper$.Library Ref|TableNameOnly=Solder Bridge Jumper$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Sensor Interface$.Library Ref|TableNameOnly=Sensor Interface$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap355]
-Options=FieldName=Solder Bridge Jumper$.Footprint Ref|TableNameOnly=Solder Bridge Jumper$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Sensor Interface$.Footprint Ref|TableNameOnly=Sensor Interface$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap356]
-Options=FieldName=Solder Bridge Jumper$.Library Path|TableNameOnly=Solder Bridge Jumper$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Sensor Interface$.Library Path|TableNameOnly=Sensor Interface$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap357]
-Options=FieldName=Solder Bridge Jumper$.Footprint Path|TableNameOnly=Solder Bridge Jumper$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Sensor Interface$.Footprint Path|TableNameOnly=Sensor Interface$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap358]
-Options=FieldName=Solder Bridge Jumper$.Description|TableNameOnly=Solder Bridge Jumper$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Sensor Interface$.Description|TableNameOnly=Sensor Interface$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap359]
-Options=FieldName=Supercapacitors$.Supplier Part Number 1|TableNameOnly=Supercapacitors$|FieldNameOnly=Supplier Part Number 1|FieldType=0|ParameterName=Supplier Part Number 1|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Solder Bridge Jumper$.Supplier Part Number 1|TableNameOnly=Solder Bridge Jumper$|FieldNameOnly=Supplier Part Number 1|FieldType=0|ParameterName=Supplier Part Number 1|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap360]
-Options=FieldName=Supercapacitors$.Library Ref|TableNameOnly=Supercapacitors$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Solder Bridge Jumper$.Library Ref|TableNameOnly=Solder Bridge Jumper$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap361]
-Options=FieldName=Supercapacitors$.Footprint Ref|TableNameOnly=Supercapacitors$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Solder Bridge Jumper$.Footprint Ref|TableNameOnly=Solder Bridge Jumper$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap362]
-Options=FieldName=Supercapacitors$.Library Path|TableNameOnly=Supercapacitors$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Solder Bridge Jumper$.Library Path|TableNameOnly=Solder Bridge Jumper$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap363]
-Options=FieldName=Supercapacitors$.Footprint Path|TableNameOnly=Supercapacitors$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Solder Bridge Jumper$.Footprint Path|TableNameOnly=Solder Bridge Jumper$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap364]
-Options=FieldName=Supercapacitors$.Description|TableNameOnly=Supercapacitors$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Solder Bridge Jumper$.Description|TableNameOnly=Solder Bridge Jumper$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap365]
-Options=FieldName=Switch ICs$.Supplier Part Number 1|TableNameOnly=Switch ICs$|FieldNameOnly=Supplier Part Number 1|FieldType=0|ParameterName=Supplier Part Number 1|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Supercapacitors$.Supplier Part Number 1|TableNameOnly=Supercapacitors$|FieldNameOnly=Supplier Part Number 1|FieldType=0|ParameterName=Supplier Part Number 1|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap366]
-Options=FieldName=Switch ICs$.Library Ref|TableNameOnly=Switch ICs$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Supercapacitors$.Library Ref|TableNameOnly=Supercapacitors$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap367]
-Options=FieldName=Switch ICs$.Footprint Ref|TableNameOnly=Switch ICs$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Supercapacitors$.Footprint Ref|TableNameOnly=Supercapacitors$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap368]
-Options=FieldName=Switch ICs$.Library Path|TableNameOnly=Switch ICs$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Supercapacitors$.Library Path|TableNameOnly=Supercapacitors$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap369]
-Options=FieldName=Switch ICs$.Footprint Path|TableNameOnly=Switch ICs$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Supercapacitors$.Footprint Path|TableNameOnly=Supercapacitors$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap370]
-Options=FieldName=Switch ICs$.Description|TableNameOnly=Switch ICs$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Supercapacitors$.Description|TableNameOnly=Supercapacitors$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap371]
-Options=FieldName=Switch$.Supplier Part Number 1|TableNameOnly=Switch$|FieldNameOnly=Supplier Part Number 1|FieldType=0|ParameterName=Supplier Part Number 1|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switch ICs$.Supplier Part Number 1|TableNameOnly=Switch ICs$|FieldNameOnly=Supplier Part Number 1|FieldType=0|ParameterName=Supplier Part Number 1|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap372]
-Options=FieldName=Switch$.Library Ref|TableNameOnly=Switch$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switch ICs$.Library Ref|TableNameOnly=Switch ICs$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap373]
-Options=FieldName=Switch$.Footprint Ref|TableNameOnly=Switch$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switch ICs$.Footprint Ref|TableNameOnly=Switch ICs$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap374]
-Options=FieldName=Switch$.Library Path|TableNameOnly=Switch$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switch ICs$.Library Path|TableNameOnly=Switch ICs$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap375]
-Options=FieldName=Switch$.Footprint Path|TableNameOnly=Switch$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switch ICs$.Footprint Path|TableNameOnly=Switch ICs$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap376]
-Options=FieldName=Switch$.Description|TableNameOnly=Switch$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switch ICs$.Description|TableNameOnly=Switch ICs$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap377]
-Options=FieldName=Switching Voltage Regulators$.Supplier Part Number 1|TableNameOnly=Switching Voltage Regulators$|FieldNameOnly=Supplier Part Number 1|FieldType=0|ParameterName=Supplier Part Number 1|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switch$.Supplier Part Number 1|TableNameOnly=Switch$|FieldNameOnly=Supplier Part Number 1|FieldType=0|ParameterName=Supplier Part Number 1|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap378]
-Options=FieldName=Switching Voltage Regulators$.Library Ref|TableNameOnly=Switching Voltage Regulators$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switch$.Library Ref|TableNameOnly=Switch$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap379]
-Options=FieldName=Switching Voltage Regulators$.Footprint Ref|TableNameOnly=Switching Voltage Regulators$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switch$.Footprint Ref|TableNameOnly=Switch$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap380]
-Options=FieldName=Switching Voltage Regulators$.Library Path|TableNameOnly=Switching Voltage Regulators$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switch$.Library Path|TableNameOnly=Switch$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap381]
-Options=FieldName=Switching Voltage Regulators$.Footprint Path|TableNameOnly=Switching Voltage Regulators$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switch$.Footprint Path|TableNameOnly=Switch$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap382]
-Options=FieldName=Switching Voltage Regulators$.Description|TableNameOnly=Switching Voltage Regulators$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switch$.Description|TableNameOnly=Switch$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap383]
-Options=FieldName=Temperature Sensors$.Part Number|TableNameOnly=Temperature Sensors$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switching Voltage Regulators$.Supplier Part Number 1|TableNameOnly=Switching Voltage Regulators$|FieldNameOnly=Supplier Part Number 1|FieldType=0|ParameterName=Supplier Part Number 1|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap384]
-Options=FieldName=Temperature Sensors$.Library Ref|TableNameOnly=Temperature Sensors$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switching Voltage Regulators$.Library Ref|TableNameOnly=Switching Voltage Regulators$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap385]
-Options=FieldName=Temperature Sensors$.Footprint Ref|TableNameOnly=Temperature Sensors$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switching Voltage Regulators$.Footprint Ref|TableNameOnly=Switching Voltage Regulators$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap386]
-Options=FieldName=Temperature Sensors$.Library Path|TableNameOnly=Temperature Sensors$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switching Voltage Regulators$.Library Path|TableNameOnly=Switching Voltage Regulators$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap387]
-Options=FieldName=Temperature Sensors$.Footprint Path|TableNameOnly=Temperature Sensors$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switching Voltage Regulators$.Footprint Path|TableNameOnly=Switching Voltage Regulators$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap388]
-Options=FieldName=Temperature Sensors$.Description|TableNameOnly=Temperature Sensors$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Switching Voltage Regulators$.Description|TableNameOnly=Switching Voltage Regulators$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap389]
-Options=FieldName=Test point$.Supplier Part Number 1|TableNameOnly=Test point$|FieldNameOnly=Supplier Part Number 1|FieldType=0|ParameterName=Supplier Part Number 1|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Temperature Sensors$.Part Number|TableNameOnly=Temperature Sensors$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap390]
-Options=FieldName=Test point$.Library Ref|TableNameOnly=Test point$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Temperature Sensors$.Library Ref|TableNameOnly=Temperature Sensors$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap391]
-Options=FieldName=Test point$.Footprint Ref|TableNameOnly=Test point$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Temperature Sensors$.Footprint Ref|TableNameOnly=Temperature Sensors$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap392]
-Options=FieldName=Test point$.Library Path|TableNameOnly=Test point$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Temperature Sensors$.Library Path|TableNameOnly=Temperature Sensors$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap393]
-Options=FieldName=Test point$.Footprint Path|TableNameOnly=Test point$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Temperature Sensors$.Footprint Path|TableNameOnly=Temperature Sensors$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap394]
-Options=FieldName=Thermistors$.Supplier Part Number 1|TableNameOnly=Thermistors$|FieldNameOnly=Supplier Part Number 1|FieldType=0|ParameterName=Supplier Part Number 1|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Temperature Sensors$.Description|TableNameOnly=Temperature Sensors$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap395]
-Options=FieldName=Thermistors$.Library Ref|TableNameOnly=Thermistors$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Test point$.Supplier Part Number 1|TableNameOnly=Test point$|FieldNameOnly=Supplier Part Number 1|FieldType=0|ParameterName=Supplier Part Number 1|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap396]
-Options=FieldName=Thermistors$.Footprint Ref|TableNameOnly=Thermistors$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Test point$.Library Ref|TableNameOnly=Test point$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap397]
-Options=FieldName=Thermistors$.Library Path|TableNameOnly=Thermistors$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Test point$.Footprint Ref|TableNameOnly=Test point$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap398]
-Options=FieldName=Thermistors$.Footprint Path|TableNameOnly=Thermistors$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Test point$.Library Path|TableNameOnly=Test point$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap399]
-Options=FieldName=Thermistors$.Description|TableNameOnly=Thermistors$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Test point$.Footprint Path|TableNameOnly=Test point$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap400]
-Options=FieldName=Transformer$.Supplier Part Number 1|TableNameOnly=Transformer$|FieldNameOnly=Supplier Part Number 1|FieldType=0|ParameterName=Supplier Part Number 1|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Thermistors$.Supplier Part Number 1|TableNameOnly=Thermistors$|FieldNameOnly=Supplier Part Number 1|FieldType=0|ParameterName=Supplier Part Number 1|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap401]
-Options=FieldName=Transformer$.Library Ref|TableNameOnly=Transformer$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Thermistors$.Library Ref|TableNameOnly=Thermistors$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap402]
-Options=FieldName=Transformer$.Footprint Ref|TableNameOnly=Transformer$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Thermistors$.Footprint Ref|TableNameOnly=Thermistors$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap403]
-Options=FieldName=Transformer$.Library Path|TableNameOnly=Transformer$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Thermistors$.Library Path|TableNameOnly=Thermistors$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap404]
-Options=FieldName=Transformer$.Footprint Path|TableNameOnly=Transformer$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Thermistors$.Footprint Path|TableNameOnly=Thermistors$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap405]
-Options=FieldName=Transformer$.Description|TableNameOnly=Transformer$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Thermistors$.Description|TableNameOnly=Thermistors$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap406]
-Options=FieldName=Transistor Optocouplers$.Supplier Part Number 1|TableNameOnly=Transistor Optocouplers$|FieldNameOnly=Supplier Part Number 1|FieldType=0|ParameterName=Supplier Part Number 1|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transformer$.Supplier Part Number 1|TableNameOnly=Transformer$|FieldNameOnly=Supplier Part Number 1|FieldType=0|ParameterName=Supplier Part Number 1|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap407]
-Options=FieldName=Transistor Optocouplers$.Library Ref|TableNameOnly=Transistor Optocouplers$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transformer$.Library Ref|TableNameOnly=Transformer$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap408]
-Options=FieldName=Transistor Optocouplers$.Footprint Ref|TableNameOnly=Transistor Optocouplers$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transformer$.Footprint Ref|TableNameOnly=Transformer$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap409]
-Options=FieldName=Transistor Optocouplers$.Library Path|TableNameOnly=Transistor Optocouplers$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transformer$.Library Path|TableNameOnly=Transformer$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap410]
-Options=FieldName=Transistor Optocouplers$.Footprint Path|TableNameOnly=Transistor Optocouplers$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transformer$.Footprint Path|TableNameOnly=Transformer$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap411]
-Options=FieldName=Transistor Optocouplers$.Description|TableNameOnly=Transistor Optocouplers$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transformer$.Description|TableNameOnly=Transformer$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap412]
-Options=FieldName=Transistors$.Supplier Part Number 1|TableNameOnly=Transistors$|FieldNameOnly=Supplier Part Number 1|FieldType=0|ParameterName=Supplier Part Number 1|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistor Optocouplers$.Supplier Part Number 1|TableNameOnly=Transistor Optocouplers$|FieldNameOnly=Supplier Part Number 1|FieldType=0|ParameterName=Supplier Part Number 1|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap413]
-Options=FieldName=Transistors$.Library Ref|TableNameOnly=Transistors$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistor Optocouplers$.Library Ref|TableNameOnly=Transistor Optocouplers$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap414]
-Options=FieldName=Transistors$.Footprint Ref|TableNameOnly=Transistors$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistor Optocouplers$.Footprint Ref|TableNameOnly=Transistor Optocouplers$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap415]
-Options=FieldName=Transistors$.Library Path|TableNameOnly=Transistors$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistor Optocouplers$.Library Path|TableNameOnly=Transistor Optocouplers$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap416]
-Options=FieldName=Transistors$.Footprint Path|TableNameOnly=Transistors$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistor Optocouplers$.Footprint Path|TableNameOnly=Transistor Optocouplers$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap417]
-Options=FieldName=Transistors$.Description|TableNameOnly=Transistors$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistor Optocouplers$.Description|TableNameOnly=Transistor Optocouplers$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap418]
-Options=FieldName=Translation - Voltage Levels$.Supplier Part Number 1|TableNameOnly=Translation - Voltage Levels$|FieldNameOnly=Supplier Part Number 1|FieldType=0|ParameterName=Supplier Part Number 1|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistors$.Supplier Part Number 1|TableNameOnly=Transistors$|FieldNameOnly=Supplier Part Number 1|FieldType=0|ParameterName=Supplier Part Number 1|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap419]
-Options=FieldName=Translation - Voltage Levels$.Library Ref|TableNameOnly=Translation - Voltage Levels$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistors$.Library Ref|TableNameOnly=Transistors$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap420]
-Options=FieldName=Translation - Voltage Levels$.Footprint Ref|TableNameOnly=Translation - Voltage Levels$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistors$.Footprint Ref|TableNameOnly=Transistors$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap421]
-Options=FieldName=Translation - Voltage Levels$.Library Path|TableNameOnly=Translation - Voltage Levels$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistors$.Library Path|TableNameOnly=Transistors$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap422]
-Options=FieldName=Translation - Voltage Levels$.Footprint Path|TableNameOnly=Translation - Voltage Levels$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistors$.Footprint Path|TableNameOnly=Transistors$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap423]
-Options=FieldName=Translation - Voltage Levels$.Description|TableNameOnly=Translation - Voltage Levels$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Transistors$.Description|TableNameOnly=Transistors$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap424]
-Options=FieldName=UART-COM-port$.Part Number|TableNameOnly=UART-COM-port$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Translation - Voltage Levels$.Supplier Part Number 1|TableNameOnly=Translation - Voltage Levels$|FieldNameOnly=Supplier Part Number 1|FieldType=0|ParameterName=Supplier Part Number 1|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap425]
-Options=FieldName=UART-COM-port$.Library Ref|TableNameOnly=UART-COM-port$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Translation - Voltage Levels$.Library Ref|TableNameOnly=Translation - Voltage Levels$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap426]
-Options=FieldName=UART-COM-port$.Footprint Ref|TableNameOnly=UART-COM-port$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Translation - Voltage Levels$.Footprint Ref|TableNameOnly=Translation - Voltage Levels$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap427]
-Options=FieldName=UART-COM-port$.Library Path|TableNameOnly=UART-COM-port$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Translation - Voltage Levels$.Library Path|TableNameOnly=Translation - Voltage Levels$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap428]
-Options=FieldName=UART-COM-port$.Footprint Path|TableNameOnly=UART-COM-port$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Translation - Voltage Levels$.Footprint Path|TableNameOnly=Translation - Voltage Levels$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap429]
+Options=FieldName=Translation - Voltage Levels$.Description|TableNameOnly=Translation - Voltage Levels$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap430]
+Options=FieldName=UART-COM-port$.Part Number|TableNameOnly=UART-COM-port$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap431]
+Options=FieldName=UART-COM-port$.Library Ref|TableNameOnly=UART-COM-port$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap432]
+Options=FieldName=UART-COM-port$.Footprint Ref|TableNameOnly=UART-COM-port$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap433]
+Options=FieldName=UART-COM-port$.Library Path|TableNameOnly=UART-COM-port$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap434]
+Options=FieldName=UART-COM-port$.Footprint Path|TableNameOnly=UART-COM-port$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap435]
 Options=FieldName=UART-COM-port$.Description|TableNameOnly=UART-COM-port$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
